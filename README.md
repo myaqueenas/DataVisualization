@@ -27,3 +27,13 @@ Research Design
 The proper philosophy of this research is Pragmatism. It can be said that this philosophy focuses on the use of realistic tools and places importance on practical effects (Saunders, Lewis & Thornhill, 2009). As for quantitative methods, statistics and data of G20 and EU countries are collected statistics from World Bank Data Catalog. Also, this study could visualize these collected statistics and data to find their associations. This study would be a longitudinal inductive method because it establishes hypotheses, analyses visualized data and leads to general principles.
 
 ![Figure1](https://github.com/myaqueenas/DataVisualization/blob/main/Figures/Figure%201.PNG)
+Console 1-1
+
+The Console 1-1 reveals the packages to use. Using a package (WDI) is easier and faster than downloading directly from the World Bank data catalog website. It is also easier to find the data you want. Such active use of multiple packages could effectively reach your desired research goals.
+
+![Figure2](https://github.com/myaqueenas/DataVisualization/commit/696c859d009b22d254ce61d0ade012e0a5dfe11f#diff-789c8233cd2d2f8b62845e73a2ca416b8f45efba224b7b6a4c9591dbfde7e2f5)
+![Figure3](https://github.com/myaqueenas/DataVisualization/commit/696c859d009b22d254ce61d0ade012e0a5dfe11f#diff-db7c1e417ff1c861776b3e10ac7b02babeb688b714a54cff5798f7179c36a651)
+Console 1-2
+
+You could search for data using keywords in WDIsearch. For instance, if you are looking for data on GDP per capita, you may enter it as above. Therefore, in the above way, we could find that the data required for this study is ("NY.GDP.PCAP.CD", # GDP per capita "SP.DYN.LE00.IN", # life expectancy "SP.POP.TOTL" #population).
+![Figure3](https://github.com/myaqueenas/DataVisualization/blob/main/Figures/Figure%201.PNG)
