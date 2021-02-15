@@ -31,8 +31,8 @@ Console 1-1
 
 The Console 1-1 reveals the packages to use. Using a package (WDI) is easier and faster than downloading directly from the World Bank data catalog website. It is also easier to find the data you want. Such active use of multiple packages could effectively reach your desired research goals.
 
-![Figure2](Figures/Figure 1.PNG)
-![Figure1](https://github.com/myaqueenas/DataVisualization/blob/main/Figures/Figure%201.PNG)
+![Figure2](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2012.PNG)
+![Figure3](https://github.com/myaqueenas/DataVisualization/blob/main/Figures/Figure%201.PNG)
 
 You could search for data using keywords in WDIsearch. For instance, if you are looking for data on GDP per capita, you may enter it as above. Therefore, in the above way, we could find that the data required for this study is ("NY.GDP.PCAP.CD", # GDP per capita "SP.DYN.LE00.IN", # life expectancy "SP.POP.TOTL" #population).
 
