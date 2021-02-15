@@ -175,25 +175,33 @@ The sample size is small. Research, which has a low theoretical background and l
  Potential Significance
 The findings of the study would help visualize and understand basic information about GDP, population and life expectancy in the G20 and the EU countries. Furthermore, historical data from each country may help them design their respective future strategies. Moreover, this study shows the relationship and impact of each data.
 
+### Part 4 Conclusion
+To sum up the study, it shows the sets of visualization analysis and the process of R with GDP per capita, population and life expectancy of G20 and EU countries and we could deduce the meaning each visualization gives. For example, GDP per capita, life expectancy, and population data could be used to infer how each data would affect each other during each growth of countries. Ultimately, it identifies the pros and cons of each visualisation method. Studies show that visualisation methods need to be established to suit the purpose of the study. Also, in some countries in the data, working hours can increase as well, as life expectancy increases. Therefore, the increased working hours mean higher incomes (GDP per capita). Also, a sharp increase in the population could be a major challenge to an increase in GDP per capita. However, this is only an obvious prediction, and because there are many variables, it is extremely hard to trust this research.
+
 Appendices
 ISO 3166-1
 
 ### References
 Case, A., & Deaton, A. (2015). Rising morbidity and mortality in midlife among white non-Hispanic Americans in the 21st century. Proceedings of the National Academy of Sciences, 112(49), 15078-15083
+
 Battersby, S., & Montello, D. (2009). Area Estimation of World Regions and the Projection of the Global-Scale Cognitive Map. Annals Of The Association Of American Geographers, 99(2), 273-291.
+
 Howard, W., & Odum. (2015). Two-way scatter plot and the World Databank (2012) : gross domestic product per capita and average life expectancy. Retrieved from https://dx.doi.org/10.4135/9781473937871
+
 ISO 3166 Country Codes. (n.d.). Retrieved from https://www.iso.org/iso-3166-country-codes.html.
+
 Lepenies, P. (2016). The power of a single number : A political history of gdp. Retrieved from https://ebookcentral.proquest.com
+
 Mackey, A., & Bassendowski, S. (2017). The History of Evidence-Based Practice in Nursing Education and Practice. Journal of Professional Nursing, 33(1), 51-55.
+
 Malterud, K., Siersma, V., & Guassora, A. (2016). Sample Size in Qualitative Interview Studies. Qualitative Health Research, 26(13), 1753-1760. doi: 10.1177/1049732315617444
+
 Pandey, R., Srivastava, N., & Verma, K. (2017). Data visualization through R and Azure for scaling machine training sets. 2017 7th International Conference on Communication Systems and Network Technologies (CSNT), 345-349.
+
 Riley, J. (2001). Rising life expectancy : A global history. Cambridge: Cambridge University Press.
+
 Saunders, M., Lewis, P., & Thornhill, A. (2009). Research methods for business students (5th ed.). Harlow: Pearson Education Limited.
+
 Teker, S., & Yuksel, A. (2016). G20: On Behalf of the Rest? Procedia Economics and Finance, 38(C), 219-223.
+
 World Bank Group - International Development, Poverty, & Sustainability. (n.d.). Retrieved from https://www.worldbank.org/.
-
-
-
-### Part 4 Conclusion
-To sum up the study, it shows the sets of visualization analysis and the process of R with GDP per capita, population and life expectancy of G20 and EU countries and we could deduce the meaning each visualization gives. For example, GDP per capita, life expectancy, and population data could be used to infer how each data would affect each other during each growth of countries. Ultimately, it identifies the pros and cons of each visualisation method. Studies show that visualisation methods need to be established to suit the purpose of the study. Also, in some countries in the data, working hours can increase as well, as life expectancy increases. Therefore, the increased working hours mean higher incomes (GDP per capita). Also, a sharp increase in the population could be a major challenge to an increase in GDP per capita. However, this is only an obvious prediction, and because there are many variables, it is extremely hard to trust this research.
-
