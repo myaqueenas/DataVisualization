@@ -178,7 +178,7 @@ The findings of the study would help visualize and understand basic information 
 ### Part 4 Conclusion
 To sum up the study, it shows the sets of visualization analysis and the process of R with GDP per capita, population and life expectancy of G20 and EU countries and we could deduce the meaning each visualization gives. For example, GDP per capita, life expectancy, and population data could be used to infer how each data would affect each other during each growth of countries. Ultimately, it identifies the pros and cons of each visualisation method. Studies show that visualisation methods need to be established to suit the purpose of the study. Also, in some countries in the data, working hours can increase as well, as life expectancy increases. Therefore, the increased working hours mean higher incomes (GDP per capita). Also, a sharp increase in the population could be a major challenge to an increase in GDP per capita. However, this is only an obvious prediction, and because there are many variables, it is extremely hard to trust this research.
 
-Appendices
+### Appendices
 ISO 3166-1
 
 ### References
