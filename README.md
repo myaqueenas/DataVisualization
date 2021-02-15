@@ -23,3 +23,4 @@ The study would also answer the following questions.
 
 Research Design
 The proper philosophy of this research is Pragmatism. It can be said that this philosophy focuses on the use of realistic tools and places importance on practical effects (Saunders, Lewis & Thornhill, 2009). As for quantitative methods, statistics and data of G20 and EU countries are collected statistics from World Bank Data Catalog. Also, this study could visualize these collected statistics and data to find their associations. This study would be a longitudinal inductive method because it establishes hypotheses, analyses visualized data and leads to general principles.
+![Figure1](./Tables & Figures/Figure 1.PNG)
