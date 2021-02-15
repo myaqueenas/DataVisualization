@@ -63,7 +63,7 @@ Console 1-6
 
 Now it is time to check the data from the World Bank collected for the study. select() is used to extract and utilize only some of the numerous variables in the data. Data can be downloaded and used as Excel or PDF.
 
-![Figure8](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%205.PNG)
+![Figure8](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%205.png)
 
 Figure 1
 
