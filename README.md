@@ -106,7 +106,7 @@ Console 3-1
 
 Life expectancy can be expressed on a map using the data given. Colours vary according to life expectancy, making them more intuitive and easier to understand than the table above.
 
-![Figure16](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%207.PNG)
+![Figure16](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%207.png)
 Figure 3
 
 Put the mouse cursor over the country and it shows the name and life expectancy of country the mouse cursor pointed to. However, the above map is a two-dimensional representation of the Earth using the Mercator's projection and the ground size of each country is distorted (Battersea & Montello, 2009). To overcome this distortion, a globe type map is presented in the following figure in R.
@@ -115,7 +115,7 @@ Put the mouse cursor over the country and it shows the name and life expectancy 
 ![Figure17](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%208.PNG)
 Console 4-1
 
-![Figure18](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%209.PNG)
+![Figure18](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%209.png)
 Figure 4
 
 The generated globe is almost the same as the previous map, where you can see life expectancy by placing a mouse cursor, but users can move the earth with their mouse and compare the size of the country. We could overcome the distortion of the country's size.
@@ -138,7 +138,7 @@ As this Figure 4 shows, code execution creates a scatter plot with point marks a
 ![Figure21](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2020.PNG)
 Console 6-1
 
-![Figure22](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2021.PNG)
+![Figure22](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2021.png)
 Figure 6
 
 This chapter shows the life expectancy by year using plotly. The x-axis represents the year and the y-axis represents the life expectancy. Also, different countries have different colours and sizes depending on the population. It is almost identical to the previous chapter. Hence, details are omitted.
@@ -147,7 +147,7 @@ This chapter shows the life expectancy by year using plotly. The x-axis represen
 ![Figure23](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2022.PNG)
 Console 7-1
 
-![Figure24](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2023.PNG)
+![Figure24](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2023.png)
 Figure 7
 
 The x-axis represents the GDP and the y-axis represents the life expectancy. Also, different countries have different colours and sizes depending on the population.
@@ -156,7 +156,7 @@ The x-axis represents the GDP and the y-axis represents the life expectancy. Als
 ![Figure25](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2024.PNG)
 Console 8-1
 
-![Figure26](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2025.PNG)
+![Figure26](https://raw.githubusercontent.com/myaqueenas/DataVisualization/696c859d009b22d254ce61d0ade012e0a5dfe11f/Figures/Figure%2025.png)
 Figure 8
 
 The x-axis represents the population and the y-axis represents the GDP per capita. Also, different countries have different colours and sizes depending on the population.
