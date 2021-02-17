@@ -1,5 +1,7 @@
 # DataVisualization
 ## Visualization sets of Gross Domestic Product per capita, Population and Life expectancy in G20 and European Union countries
+#### Youngjin Noh
+
 ### Structured abstract
 Population, human life expectancy, and global Gross Domestic Product (GDP) have been rising steadily in human history (Riley, 2001; Lepenies, 2016). The study notes the link between these data. In particular, it could focus on about 40 years of data from G20 countries and EU countries, which account for more than 70 percent of the world’s population, 90 percent of global GDP and more than 80 percent of trade (Teker & Yuksel, 2016). In this study, the trend of each country's GDP per capita is identified by a time series graph and life expectancy data is visualized as a Choropleth Map. It also visualizes and analyses the data with a Scatter plot to identify each association of data. As an example of the identified links, some argue that an increase in personal income (increasing medical expenses) has resulted in an increase in life expectancy (Howard & Odum, 2015), but in many countries in G20 and European Union (EU), an increase in life expectancy has occurred earlier than an increase in personal income. Therefore, it may be appropriate to determine that the increased working hours (increasing life expectancy) have resulted in an increase in personal income (GDP per capita).
 
